@@ -20,10 +20,9 @@ Developed using the Python turtle module. The player controls a turtle that must
 
 ## Images
 <div style="display: inline_block"><br>
-  <img align="center" height="400" width="400" src=""/>
-  <img align="center" height="400" width="400" src=""/>
-  <img align="center" height="400" width="400" src=""/>
-  <img align="center" height="400" width="400" src=""/>
-  <img align="center" height="400" width="400" src=""/>
-  <img align="center" height="400" width="400" src=""/>
+  <img align="center" height="400" width="400" src="https://github.com/user-attachments/assets/101b4eb9-c035-4b70-a32b-99ab273b43ad"/>
+  <img align="center" height="400" width="400" src="https://github.com/user-attachments/assets/150bb097-a5fa-439f-bfbd-873b82c59aef"/>
+  <img align="center" height="400" width="400" src="https://github.com/user-attachments/assets/146a333c-2ee9-4ab9-8c0a-04bc308cccb5"/>
+  <img align="center" height="400" width="400" src="https://github.com/user-attachments/assets/4bf776f0-4142-4aa4-aeda-2b5d26adccaa"/>
+  <img align="center" height="400" width="400" src="https://github.com/user-attachments/assets/d57a8f99-90a2-4574-b384-80bf8db792db"/>
 </div>
